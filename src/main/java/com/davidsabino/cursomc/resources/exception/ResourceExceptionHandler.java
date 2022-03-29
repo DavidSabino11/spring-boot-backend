@@ -1,7 +1,5 @@
 package com.davidsabino.cursomc.resources.exception;
 
-import java.lang.module.FindException;
-
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.http.HttpStatus;
